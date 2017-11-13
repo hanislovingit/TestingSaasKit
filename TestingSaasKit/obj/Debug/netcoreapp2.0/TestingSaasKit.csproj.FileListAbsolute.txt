@@ -1,0 +1,11 @@
+c:\users\chan\documents\visual studio 2017\Projects\TestingSaasKit\TestingSaasKit\bin\Debug\netcoreapp2.0\TestingSaasKit.deps.json
+c:\users\chan\documents\visual studio 2017\Projects\TestingSaasKit\TestingSaasKit\bin\Debug\netcoreapp2.0\TestingSaasKit.runtimeconfig.json
+c:\users\chan\documents\visual studio 2017\Projects\TestingSaasKit\TestingSaasKit\bin\Debug\netcoreapp2.0\TestingSaasKit.runtimeconfig.dev.json
+c:\users\chan\documents\visual studio 2017\Projects\TestingSaasKit\TestingSaasKit\bin\Debug\netcoreapp2.0\TestingSaasKit.dll
+c:\users\chan\documents\visual studio 2017\Projects\TestingSaasKit\TestingSaasKit\bin\Debug\netcoreapp2.0\TestingSaasKit.pdb
+c:\users\chan\documents\visual studio 2017\Projects\TestingSaasKit\TestingSaasKit\obj\Debug\netcoreapp2.0\TestingSaasKit.csprojResolveAssemblyReference.cache
+c:\users\chan\documents\visual studio 2017\Projects\TestingSaasKit\TestingSaasKit\obj\Debug\netcoreapp2.0\TestingSaasKit.csproj.CoreCompileInputs.cache
+c:\users\chan\documents\visual studio 2017\Projects\TestingSaasKit\TestingSaasKit\obj\Debug\netcoreapp2.0\TestingSaasKit.AssemblyInfoInputs.cache
+c:\users\chan\documents\visual studio 2017\Projects\TestingSaasKit\TestingSaasKit\obj\Debug\netcoreapp2.0\TestingSaasKit.AssemblyInfo.cs
+c:\users\chan\documents\visual studio 2017\Projects\TestingSaasKit\TestingSaasKit\obj\Debug\netcoreapp2.0\TestingSaasKit.dll
+c:\users\chan\documents\visual studio 2017\Projects\TestingSaasKit\TestingSaasKit\obj\Debug\netcoreapp2.0\TestingSaasKit.pdb
