@@ -12581,11 +12581,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\CHan\\Documents\\Visual Studio 2017\\Projects\\TestingSaasKit\\TestingSaasKit\\TestingSaasKit.csproj",
+      "projectUniqueName": "C:\\github\\TestingSaasKit\\TestingSaasKit\\TestingSaasKit.csproj",
       "projectName": "TestingSaasKit",
-      "projectPath": "C:\\Users\\CHan\\Documents\\Visual Studio 2017\\Projects\\TestingSaasKit\\TestingSaasKit\\TestingSaasKit.csproj",
+      "projectPath": "C:\\github\\TestingSaasKit\\TestingSaasKit\\TestingSaasKit.csproj",
       "packagesPath": "C:\\Users\\CHan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CHan\\Documents\\Visual Studio 2017\\Projects\\TestingSaasKit\\TestingSaasKit\\obj\\",
+      "outputPath": "C:\\github\\TestingSaasKit\\TestingSaasKit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

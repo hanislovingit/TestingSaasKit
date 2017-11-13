@@ -9,3 +9,14 @@ c:\users\chan\documents\visual studio 2017\Projects\TestingSaasKit\TestingSaasKi
 c:\users\chan\documents\visual studio 2017\Projects\TestingSaasKit\TestingSaasKit\obj\Debug\netcoreapp2.0\TestingSaasKit.AssemblyInfo.cs
 c:\users\chan\documents\visual studio 2017\Projects\TestingSaasKit\TestingSaasKit\obj\Debug\netcoreapp2.0\TestingSaasKit.dll
 c:\users\chan\documents\visual studio 2017\Projects\TestingSaasKit\TestingSaasKit\obj\Debug\netcoreapp2.0\TestingSaasKit.pdb
+C:\github\TestingSaasKit\TestingSaasKit\bin\Debug\netcoreapp2.0\TestingSaasKit.deps.json
+C:\github\TestingSaasKit\TestingSaasKit\bin\Debug\netcoreapp2.0\TestingSaasKit.runtimeconfig.json
+C:\github\TestingSaasKit\TestingSaasKit\bin\Debug\netcoreapp2.0\TestingSaasKit.runtimeconfig.dev.json
+C:\github\TestingSaasKit\TestingSaasKit\bin\Debug\netcoreapp2.0\TestingSaasKit.dll
+C:\github\TestingSaasKit\TestingSaasKit\bin\Debug\netcoreapp2.0\TestingSaasKit.pdb
+C:\github\TestingSaasKit\TestingSaasKit\obj\Debug\netcoreapp2.0\TestingSaasKit.csprojResolveAssemblyReference.cache
+C:\github\TestingSaasKit\TestingSaasKit\obj\Debug\netcoreapp2.0\TestingSaasKit.csproj.CoreCompileInputs.cache
+C:\github\TestingSaasKit\TestingSaasKit\obj\Debug\netcoreapp2.0\TestingSaasKit.AssemblyInfoInputs.cache
+C:\github\TestingSaasKit\TestingSaasKit\obj\Debug\netcoreapp2.0\TestingSaasKit.AssemblyInfo.cs
+C:\github\TestingSaasKit\TestingSaasKit\obj\Debug\netcoreapp2.0\TestingSaasKit.dll
+C:\github\TestingSaasKit\TestingSaasKit\obj\Debug\netcoreapp2.0\TestingSaasKit.pdb
